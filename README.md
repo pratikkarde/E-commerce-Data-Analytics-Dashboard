@@ -72,7 +72,7 @@ bash
 streamlit run Dashboard/app.py
 🌐 Live Demo
 🟢 Hosted on Streamlit Cloud:
-[https://e-commerce-data-analytics-dashboard.streamlit.app (replace with your actual link)](https://e-commerce-data-analytics-dashboard-2j56adoo83ydxy6qjzw734.streamlit.app/)
+[https://e-commerce-data-analytics-dashboard.streamlit.app](https://e-commerce-data-analytics-dashboard-2j56adoo83ydxy6qjzw734.streamlit.app/)
 
 📂 Sample Screenshots
 KPI Metrics	Customer Analysis	Product Insights
