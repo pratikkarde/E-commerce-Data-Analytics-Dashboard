@@ -1,0 +1,6 @@
+Data/cleaned_data.sqlite
+__pycache__/
+*.pyc
+*.log
+.ipynb_checkpoints/
+ETL\ Pipeline/etl_summary_report.json
